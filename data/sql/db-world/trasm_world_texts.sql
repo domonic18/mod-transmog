@@ -24,7 +24,7 @@ INSERT INTO `acore_string` (`entry`, `content_default`) VALUES
 (@STRING_ENTRY+9, '未找到幻化效果。'),
 (@STRING_ENTRY+10, '插入的名称无效。'),
 (@STRING_ENTRY+11, '显示幻化的物品，重新登录以更新当前区域。'),
-(@STRING_ENTRY+12, '隐藏幻化的物品，重新登录以更新当前区域。');
+(@STRING_ENTRY+12, '隐藏幻化的物品，重新登录以更新当前区域。'),
 (@STRING_ENTRY+13, 'The selected Item is not suitable for transmogrification.'),
 (@STRING_ENTRY+14, 'The selected Item cannot be used for transmogrification of the target player.'),
 (@STRING_ENTRY+15, 'Performing transmog appearance sync....'),
